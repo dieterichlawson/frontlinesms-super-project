@@ -4,18 +4,6 @@
 [submodule "plugin-forms"]
 	path = plugin-forms
 	url = git://github.com/frontlinesms/frontlinesms-plugin-forms.git
-[submodule "plugin-httptrigger"]
-	path = plugin-httptrigger
-	url = git://github.com/frontlinesms/frontlinesms-plugin-httptrigger.git
-[submodule "plugin-translation"]
-	path = plugin-translation
-	url = git://github.com/frontlinesms/frontlinesms-plugin-translation.git
-[submodule "plugin-reminders"]
-	path = plugin-reminders
-	url = git://github.com/frontlinesms/frontlinesms-plugin-reminders.git
-[submodule "plugin-template"]
-	path = plugin-template
-	url = git://github.com/frontlinesms/frontlinesms-plugin-template.git
 [submodule "dist"]
 	path = dist
 	url = git://github.com/frontlinesms/frontlinesms-dist.git
