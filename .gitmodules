@@ -4,9 +4,6 @@
 [submodule "plugin-forms"]
 	path = plugin-forms
 	url = git://github.com/dieterichlawson/frontlinesms-plugin-forms.git
-[submodule "patientview"]
-        path = patientview
-        url = git://github.com/medic/PatientView.git
 [submodule "dist"]
 	path = dist
 	url = git://github.com/dieterichlawson/frontline-dist.git
