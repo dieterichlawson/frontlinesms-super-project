@@ -6,14 +6,7 @@ This is the FrontlineSMS super project.  It is used to manage the separate modul
 Making a workspace
 ------------------
 
-This project will set up a workspace for FrontlineSMS in e.g. Eclipse quite nearly:
+This project will set up a workspace for FrontlineSMS in Eclipse quite nearly. To set everything up, run:
 
-    git clone git://github.com/frontlinesms/frontlinesms-super-project.git frontlinesms-workspace
-
-To then check out the source for the project's modules, run the following:
-
-    cd frontlinesms-workspace
-    git submodule init
-    git submodule update
-
+    git clone git@github.com:dieterichlawson/frontlinesms-super-project.git && cd frontlinesms-super-project && git submodule init && git submodule update
 
