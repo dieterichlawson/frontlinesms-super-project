@@ -1,12 +1,12 @@
 [submodule "core"]
 	path = core
-	url = git://github.com/frontlinesms/frontlinesms-core.git
+	url = git://github.com/dieterichlawson/frontlinesms-core.git
 [submodule "plugin-forms"]
 	path = plugin-forms
-	url = git://github.com/frontlinesms/frontlinesms-plugin-forms.git
+	url = git://github.com/dieterichlawson/frontlinesms-plugin-forms.git
 [submodule "dist"]
 	path = dist
-	url = git://github.com/frontlinesms/frontlinesms-dist.git
+	url = git://github.com/dieterichlawson/frontline-dist.git
 [submodule "pom-parent"]
 	path = pom-parent
 	url = git://github.com/frontlinesms/frontlinesms-pom-parent.git
